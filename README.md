@@ -28,3 +28,8 @@ Arbetet ska utföras under ca. 10 arbetspass. Varje pass är lite drygt 2 timmar
 * Någon form av interaktivitet
 * En koppling till en databas / backend som sparar data över producerade koppar kaffe
 * Någon form av presentation av statisk utifrån data
+
+# Arbetsprocess
+
+Projektet kommer att skapas som en monolit, med Node och Express. Koden kommer att skrivas i mindre moduler för att kunna testas.
+
