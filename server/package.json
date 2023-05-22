@@ -1,0 +1,26 @@
+{
+    "name": "wsp1-wu2-coffesim",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "dev": "nodemon bin/www",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jensnti/wsp1-wu2-coffesim.git"
+    },
+    "author": "jensnti",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jensnti/wsp1-wu2-coffesim/issues"
+    },
+    "homepage": "https://github.com/jensnti/wsp1-wu2-coffesim#readme",
+    "devDependencies": {
+        "nodemon": "^2.0.22"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
